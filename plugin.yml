@@ -1,0 +1,7 @@
+name: WorldSchutz
+version: 0.1
+api: 4.0.0
+main: NxtUserHD\WorldSchutz
+commands:
+  ws:
+    description: Main WorldSchtz Command
